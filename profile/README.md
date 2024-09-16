@@ -3,12 +3,15 @@
 Welcome to the official Global Parkinson's Genetics Program (GP2) code repositories!
 
 ## Current Release
-Our latest release is release 7, last updated April 2024.
-* Blog post: https://gp2.org/the-components-of-gp2s-seventh-data-release/
-* DOI: 10.5281/zenodo.10962119
-* When using GP2 release 7 data please use the following acknowledgement:
-  * “Data (DOI 10.5281/zenodo.10962119, release 7) used in the preparation of this article were obtained from the Global Parkinson’s Genetics Program (GP2).”
+Our latest release is release 8, last updated September 2024.
+* Blog post: pending
+* DOI: 10.5281/zenodo.13755496
+* When using GP2 release 8 data please use the following acknowledgement:
+> “Data (DOI 10.5281/zenodo.13755496, release 8) used in the preparation of this article were obtained from the Global Parkinson’s Genetics Program (GP2).”
 
+For a list of previous releases and DOIs, please [see here](https://github.com/GP2code/releases/blob/main/README.md) 
+
+---
 Additional details will be added soon 
 
 <!--
