@@ -12,7 +12,9 @@ Our latest release is release 9, last updated December 2024.
 For a list of previous releases and DOIs, please [see here](https://github.com/GP2code/releases/blob/main/README.md) 
 
 ---
-Additional details will be added soon 
+## Quality Control Pipelines 
+* GP2 processes the NeuroBooster array data with the GenoTools pipeline, more information here: https://github.com/GP2code/GenoTools
+* GP2 processes the whole genome sequencing data with a combination of DeepVariant and GLNexus, code here: https://github.com/GP2code/GP2-WorkingGroups/tree/main/MN-DAWG-Monogenic-Data-Analysis/Terra_wdl/variant_calling/deepvariant
 
 <!--
 
