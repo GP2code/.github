@@ -7,7 +7,7 @@ Our latest release is release 9, last updated December 2024.
 * Blog post [here](https://gp2.org/the-components-of-gp2s-9th-data-release/)
 * DOI: 10.5281/zenodo.14510099
 * When using GP2 release 9 data please use the following acknowledgement:
- > “Data (DOI 10.5281/zenodo.14510099, release 9) used in the preparation of this article were obtained from the Global Parkinson’s Genetics Program (GP2).”
+ > “Data used in the preparation of this article were obtained from the Global Parkinson’s Genetics Program (GP2; https://gp2.org). Specifically, we used [Tier 1 / Tier 2; choose one!] data from GP2 release 9 [DOI 10.5281/zenodo.14510099]. Tier 1 data can be accessed by completing a form on the Accelerating Medicines Partnership in Parkinson’s Disease (AMP®-PD) website (https://amp-pd.org/register-for-amp-pd). Tier 2 data access requires approval and a Data Use Agreement signed by your institution."
 
 For a list of previous releases and DOIs, please [see here](https://github.com/GP2code/releases/blob/main/README.md) 
 
