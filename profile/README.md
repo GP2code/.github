@@ -16,6 +16,17 @@ For a list of previous releases and DOIs, please [see here](https://github.com/G
 * GP2 processes the NeuroBooster array data with the GenoTools pipeline, more information here: https://github.com/GP2code/GenoTools
 * GP2 processes the whole genome sequencing data leverages DRAGEN v4.4.7, similar approach to [UKBiobank](https://community.ukbiobank.ac.uk/hc/en-gb/articles/26273057297949-ML-Corrected-DRAGEN-whole-genome-sequencing-WGS-release)
 
+---
+## Interesting in Getting Access? 
+
+<img width="2455" height="1359" alt="Screenshot 2026-07-01 at 11 03 30 AM" src="https://github.com/user-attachments/assets/d49202f4-cb31-4f26-a0a1-44a00da4a620" />
+
+* Latest Blogs: https://gp2.org/updates/?post_type=Data%20Release#results
+   
+* AMP-PDRD Data Use Agreement: https://amp-pdrd.org/request-registration-or-renewal
+  
+* GP2 training materials: https://gp2.org/training/ 
+
 <!--
 
 **Here are some ideas to get you started:**
