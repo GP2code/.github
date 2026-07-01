@@ -14,7 +14,7 @@ For a list of previous releases and DOIs, please [see here](https://github.com/G
 ---
 ## Quality Control Pipelines 
 * GP2 processes the NeuroBooster array data with the GenoTools pipeline, more information here: https://github.com/GP2code/GenoTools
-* GP2 processes the whole genome sequencing data with a combination of DeepVariant and GLNexus, code here: https://github.com/GP2code/GP2-WorkingGroups/tree/main/MN-DAWG-Monogenic-Data-Analysis/Terra_wdl/variant_calling/deepvariant
+* GP2 processes the whole genome sequencing data leverages DRAGEN v4.4.7, similar approach to [UKBiobank](https://community.ukbiobank.ac.uk/hc/en-gb/articles/26273057297949-ML-Corrected-DRAGEN-whole-genome-sequencing-WGS-release)
 
 <!--
 
